@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fac22e3a836202106da2ee30ceaad3c6" label="Collection Item" max_length="40" name="x_938111_collect_0_collection_item" type="collection">
+        <element default="150" function_definition="150" label="Item" max_length="150" name="item" type="string"/>
+    </element>
+</database>
